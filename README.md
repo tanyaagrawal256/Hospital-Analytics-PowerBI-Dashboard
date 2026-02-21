@@ -62,6 +62,12 @@ This project presents a multi-page Power BI dashboard analyzing hospital admissi
 
 ---  
 
+## 🎥 Dashboard Demo Video  
+
+Watch the full demo here:    
+👉 [Click to Watch](https://www.linkedin.com/posts/dr-tanya-agrawal-618b002ba_healthcareanalytics-powerbi-dataanalytics-activity-7402966547796885504-71ju?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEyxp3QBHrE8Iv-3o9rMHNpaOeVL1rf6NwI)    
+
+
 ## 👩‍💻 Author
 Tanya Agrawal  
 BDS | AI & Healthcare Analytics Enthusiast
