@@ -1,4 +1,16 @@
-# 🏥 Hospital Analytics Dashboard (Power BI)  
+# 🏥 Hospital Analytics Dashboard (Power BI)   
+
+## 📊 Dashboard Overview  
+
+### 🏥 Hospital Admission Dashboard  
+![Admission](assets/admission_dashboard.png)  
+
+### ☠ Mortality Dashboard  
+![Mortality](assets/mortality_dashboard.png)  
+
+### 🌍 Pollution & AQI Dashboard  
+![Pollution](assets/pollution_dashboard.png)
+   
 
 ## 📌 Project Overview  
 
